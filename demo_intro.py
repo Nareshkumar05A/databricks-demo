@@ -1,1 +1,1 @@
-print("Hello from Git + Databricks")
+print("Change deployed from Git")
